@@ -1,6 +1,6 @@
 # shop
 
-shop applications for selling every thing from any size shops
+shop mobile applications is aims at anabling shop owners to sell good to customers nearbe them 
 
 ## Getting Started
 
